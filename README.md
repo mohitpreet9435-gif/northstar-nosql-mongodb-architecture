@@ -1,0 +1,1 @@
+# northstar-nosql-mongodb-architecture
